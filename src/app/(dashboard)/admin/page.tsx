@@ -1,6 +1,7 @@
 import UserCard from "@/components/UserCard"
 import CountChart from "@/components/CountChart"
 import AttendenceChart from "@/components/AttendenceChart"
+import FinanceChart from "@/components/FinanceChart"
 
 const AdminPage = () => {
   return (
@@ -33,7 +34,9 @@ const AdminPage = () => {
       </div>
 
       {/* BOTTOM CHARTS */}
-      <div className=""></div>
+      <div className="">
+        <FinanceChart />
+      </div>
 
       </div>
 

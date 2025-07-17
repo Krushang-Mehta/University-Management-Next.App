@@ -21,7 +21,7 @@ export default function DashboardLayout({
             src="/logo.png"
             alt="logo" width={32} height={32}
           />
-          <span className="hidden lg:block">
+          <span className="hidden lg:block font-semibold">
             Vanil University
           </span>
         </Link>
