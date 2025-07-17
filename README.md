@@ -17,7 +17,7 @@ UMS integrates features such as real-time student bus tracking, attendance monit
 | **Tailwind CSS**    | Utility-first styling framework           |
 | **Recharts**        | Charting library for attendance/results   |
 | **JWT/Auth**        | Role-based secure authentication          |
-| **Google Maps API** | For real-time student bus tracking        |
+| **LeafLet Maps API** | For real-time student bus tracking        |
 
 ---
 
