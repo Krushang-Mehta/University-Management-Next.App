@@ -28,7 +28,9 @@ const config: Config = {
         cyan: "#53eafd",
         cyanlight: "#a2f4fd",
         rose: "#ff2056",
-        roselight: "#ffa1ad",
+        roselight: "#ff637e",
+        emerald:"#00d492",
+        emeraldlight:"#a4f4cf",
       }
     },
   },
