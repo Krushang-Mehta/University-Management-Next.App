@@ -70,7 +70,7 @@ const AttendenceChart = () => {
           />
           <Bar
             dataKey="absent"
-            fill="#feafc7"
+            fill="#ff637e"
             legendType="circle"
             radius={[10, 10, 0, 0]}
           />
