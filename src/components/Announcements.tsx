@@ -13,7 +13,7 @@ const Announcements = () => {
             <div className="bg-skylight rounded-md p-4">
                 <div className="flex items-center justify-between">
                     <h2 className="font-medium ">Lorem ipsum dolor sit elit.</h2>
-                    <span className="text-xs text-gray-400 bg-white rounded-md px-1 py-1 ">14-08-2025</span>
+                    <span className="text-xs text-gray-400 bg-white rounded-md px-1 py-1 ">18-07-2025</span>
                 </div>
                 <p className="text-sm text-gray-400 mt-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
             </div>
@@ -21,7 +21,7 @@ const Announcements = () => {
             <div className="bg-purplelight rounded-md p-4">
                 <div className="flex items-center justify-between">
                     <h2 className="font-medium ">Lorem ipsum dolor sit elit.</h2>
-                    <span className="text-xs text-gray-400 bg-white rounded-md px-1 py-1 ">14-08-2025</span>
+                    <span className="text-xs text-gray-400 bg-white rounded-md px-1 py-1 ">18-07-2025</span>
                 </div>
                 <p className="text-sm text-gray-400 mt-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
             </div>
@@ -29,7 +29,7 @@ const Announcements = () => {
             <div className="bg-yellowlight rounded-md p-4">
                 <div className="flex items-center justify-between">
                     <h2 className="font-medium ">Lorem ipsum dolor sit elit.</h2>
-                    <span className="text-xs text-gray-400 bg-white rounded-md px-1 py-1 ">14-08-2025</span>
+                    <span className="text-xs text-gray-400 bg-white rounded-md px-1 py-1 ">18-07-2025</span>
                 </div>
                 <p className="text-sm text-gray-400 mt-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
             </div>
