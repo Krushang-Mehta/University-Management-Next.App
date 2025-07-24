@@ -913,7 +913,7 @@ export const announcementsData = [
     class: "1C",
     date: "2025-01-01",
   },
-];
+];  
 
 
 // YOU SHOULD CHANGE THE DATES OF THE EVENTS TO THE CURRENT DATE TO SEE THE EVENTS ON THE CALENDAR
@@ -921,144 +921,179 @@ export const calendarEvents = [
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 6, 16, 8, 0),
-    end: new Date(2024, 7, 16, 8, 45),
+    start: new Date(2025, 6, 21, 7, 30),
+    end: new Date(2025, 6, 21, 8, 25),
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 7, 12, 9, 0),
-    end: new Date(2024, 7, 12, 9, 45),
+    start: new Date(2025, 6, 21, 8, 25),
+    end: new Date(2025, 6, 21, 9, 20),
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 7, 16, 10, 0),
-    end: new Date(2024, 7, 16, 10, 45),
+    start: new Date(2025, 6, 22, 10, 0),
+    end: new Date(2025, 6, 22, 10, 45),
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2024, 7, 16, 11, 0),
-    end: new Date(2024, 7, 16, 11, 45),
+    start: new Date(2025, 6, 23, 11, 0),
+    end: new Date(2025, 6, 23, 11, 45),
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2024, 7, 16, 13, 0),
-    end: new Date(2024, 7, 16, 13, 45),
+    start: new Date(2025, 6, 24, 12, 0),
+    end: new Date(2025, 6, 24, 12, 45),
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 16, 14, 0),
-    end: new Date(2024, 7, 16, 14, 45),
+    start: new Date(2025, 6, 24, 13, 0),
+    end: new Date(2025, 6, 24, 13, 45),
   },
-  {
-    title: "English",
-    allDay: false,
-    start: new Date(2024, 7, 17, 9, 0),
-    end: new Date(2024, 7, 17, 9, 45),
-  },
-  {
-    title: "Biology",
-    allDay: false,
-    start: new Date(2024, 7, 17, 10, 0),
-    end: new Date(2024, 7, 17, 10, 45),
-  },
-  {
-    title: "Physics",
-    allDay: false,
-    start: new Date(2024, 7, 17, 11, 0),
-    end: new Date(2024, 7, 17, 11, 45),
-  },
-
-  {
-    title: "History",
-    allDay: false,
-    start: new Date(2024, 7, 17, 14, 0),
-    end: new Date(2024, 7, 17, 14, 45),
-  },
-  {
-    title: "Math",
-    allDay: false,
-    start: new Date(2024, 7, 18, 8, 0),
-    end: new Date(2024, 7, 18, 8, 45),
-  },
-  {
-    title: "Biology",
-    allDay: false,
-    start: new Date(2024, 7, 18, 10, 0),
-    end: new Date(2024, 7, 18, 10, 45),
-  },
-
-  {
-    title: "Chemistry",
-    allDay: false,
-    start: new Date(2024, 7, 18, 13, 0),
-    end: new Date(2024, 7, 18, 13, 45),
-  },
-  {
-    title: "History",
-    allDay: false,
-    start: new Date(2024, 7, 18, 14, 0),
-    end: new Date(2024, 7, 18, 14, 45),
-  },
-  {
-    title: "English",
-    allDay: false,
-    start: new Date(2024, 7, 21, 9, 0),
-    end: new Date(2024, 7, 21, 9, 45),
-  },
-  {
-    title: "Biology",
-    allDay: false,
-    start: new Date(2024, 7, 21, 10, 0),
-    end: new Date(2024, 7, 21, 10, 45),
-  },
-  {
-    title: "Physics",
-    allDay: false,
-    start: new Date(2024, 7, 21, 11, 0),
-    end: new Date(2024, 7, 21, 11, 45),
-  },
-
-  {
-    title: "History",
-    allDay: false,
-    start: new Date(2024, 7, 15, 14, 0),
-    end: new Date(2024, 7, 15, 14, 45),
-  },
-  {
-    title: "Math",
-    allDay: false,
-    start: new Date(2024, 7, 16, 8, 0),
-    end: new Date(2024, 7, 16, 8, 45),
-  },
-  {
-    title: "English",
-    allDay: false,
-    start: new Date(2024, 7, 16, 9, 0),
-    end: new Date(2024, 7, 16, 9, 45),
-  },
-
-  {
-    title: "Physics",
-    allDay: false,
-    start: new Date(2024, 7, 16, 11, 0),
-    end: new Date(2024, 7, 16, 11, 45),
-  },
-  {
-    title: "Chemistry",
-    allDay: false,
-    start: new Date(2024, 7, 16, 13, 0),
-    end: new Date(2024, 7, 16, 13, 45),
-  },
-  {
-    title: "History",
-    allDay: false,
-    start: new Date(2024, 7, 16, 14, 0),
-    end: new Date(2024, 7, 16, 14, 45),
-  },
-
 ];
+
+// export const calendarEvents = [
+//   // === MONDAY ===
+//   {
+//     title: "BY1: MCWN (DRP) - B7",
+//     start: new Date(2025, 6, 21, 7, 30),
+//     end: new Date(2025, 6, 21, 8, 25),
+//   },
+//   {
+//     title: "BY2: BLC (BD) - B1",
+//     start: new Date(2025, 6, 21, 7, 30),
+//     end: new Date(2025, 6, 21, 8, 25),
+//   },
+//   {
+//     title: "BY3: MINI (NPB) - B3",
+//     start: new Date(2025, 6, 21, 7, 30),
+//     end: new Date(2025, 6, 21, 8, 25),
+//   },
+//   {
+//     title: "INS (TMB)",
+//     start: new Date(2025, 6, 21, 9, 50),
+//     end: new Date(2025, 6, 21, 10, 45),
+//   },
+//   {
+//     title: "MCWN (DRP)",
+//     start: new Date(2025, 6, 21, 10, 45),
+//     end: new Date(2025, 6, 21, 11, 40),
+//   },
+//   {
+//     title: "BY1: INS (TMB) - B8",
+//     start: new Date(2025, 6, 21, 11, 50),
+//     end: new Date(2025, 6, 21, 12, 45),
+//   },
+//   {
+//     title: "BY2: CD (RJS) - B3",
+//     start: new Date(2025, 6, 21, 11, 50),
+//     end: new Date(2025, 6, 21, 12, 45),
+//   },
+//   {
+//     title: "BY3: BLC (BD) - B1",
+//     start: new Date(2025, 6, 21, 11, 50),
+//     end: new Date(2025, 6, 21, 12, 45),
+//   },
+
+//   // === TUESDAY ===
+//   {
+//     title: "MCWN (DRP)",
+//     start: new Date(2025, 6, 22, 8, 25),
+//     end: new Date(2025, 6, 22, 9, 20),
+//   },
+//   {
+//     title: "CD (RJS)",
+//     start: new Date(2025, 6, 22, 9, 50),
+//     end: new Date(2025, 6, 22, 10, 45),
+//   },
+//   {
+//     title: "INS (TMB)",
+//     start: new Date(2025, 6, 22, 10, 45),
+//     end: new Date(2025, 6, 22, 11, 40),
+//   },
+
+//   // === WEDNESDAY ===
+//   {
+//     title: "CD (RJS)",
+//     start: new Date(2025, 6, 23, 8, 25),
+//     end: new Date(2025, 6, 23, 9, 20),
+//   },
+//   {
+//     title: "BLC (BD)",
+//     start: new Date(2025, 6, 23, 9, 50),
+//     end: new Date(2025, 6, 23, 10, 45),
+//   },
+//   {
+//     title: "INS (TMB)",
+//     start: new Date(2025, 6, 23, 10, 45),
+//     end: new Date(2025, 6, 23, 11, 40),
+//   },
+//   {
+//     title: "BY1: BLC (BD) - B4",
+//     start: new Date(2025, 6, 23, 11, 50),
+//     end: new Date(2025, 6, 23, 12, 45),
+//   },
+//   {
+//     title: "BY2: INS (TMB) - B8",
+//     start: new Date(2025, 6, 23, 11, 50),
+//     end: new Date(2025, 6, 23, 12, 45),
+//   },
+//   {
+//     title: "BY3: CD (RJS) - B3",
+//     start: new Date(2025, 6, 23, 11, 50),
+//     end: new Date(2025, 6, 23, 12, 45),
+//   },
+
+//   // === THURSDAY ===
+//   {
+//     title: "BY1: CD (RJS) - B3",
+//     start: new Date(2025, 6, 24, 7, 30),
+//     end: new Date(2025, 6, 24, 8, 25),
+//   },
+//   {
+//     title: "BY2: MINI (NPB) - B4",
+//     start: new Date(2025, 6, 24, 7, 30),
+//     end: new Date(2025, 6, 24, 8, 25),
+//   },
+//   {
+//     title: "BY3: MCWN (DRP) - B7",
+//     start: new Date(2025, 6, 24, 7, 30),
+//     end: new Date(2025, 6, 24, 8, 25),
+//   },
+//   {
+//     title: "BY1: MINI (RJS) - B3",
+//     start: new Date(2025, 6, 24, 9, 50),
+//     end: new Date(2025, 6, 24, 10, 45),
+//   },
+//   {
+//     title: "BY2: MCWN (DRP) - B8",
+//     start: new Date(2025, 6, 24, 9, 50),
+//     end: new Date(2025, 6, 24, 10, 45),
+//   },
+//   {
+//     title: "BY3: INS (TMB) - B7",
+//     start: new Date(2025, 6, 24, 9, 50),
+//     end: new Date(2025, 6, 24, 10, 45),
+//   },
+//   {
+//     title: "CD (RJS)",
+//     start: new Date(2025, 6, 24, 11, 50),
+//     end: new Date(2025, 6, 24, 12, 45),
+//   },
+//   {
+//     title: "MCWN (DRP)",
+//     start: new Date(2025, 6, 24, 12, 45),
+//     end: new Date(2025, 6, 24, 13, 40),
+//   },
+
+//   // === FRIDAY ===
+//   // (No events provided in image for Friday)
+
+//   // === SATURDAY ===
+//   // (No events provided in image for Saturday)
+// ];
+

@@ -1,6 +1,6 @@
 import Announcements from "@/components/Announcements"
-import BigCalendar from "@/components/BigCalendar"
 import EventCalendar from "@/components/EventCalendar"
+import TimeTable from "@/components/TimeTable"
 import "react-big-calendar/lib/css/react-big-calendar.css"
 
 const StudentPage = () => {
@@ -11,7 +11,8 @@ const StudentPage = () => {
       <div className="w-full xl:w-2/3">
         <div className="h-full bg-white p-4 rounded-md">
           <h1 className="text-xl font-semibold">Time-Table (7-BY)</h1>
-          <BigCalendar />
+          {/* <BigCalendar /> */}
+          <TimeTable />
         </div>
       </div>
 
