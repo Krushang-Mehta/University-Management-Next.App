@@ -21,7 +21,7 @@ export const teachersData = [
     name: "Jane Doe",
     email: "jane@doe.com",
     photo:
-      "https://images.pexels.com/photos/936186/pexels-photo-936186.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      "https://images.pexels.com/photos/2888180/pexels-photo-2888180.jpeg?auto=compress&cs=tinysrgb&w=1800",
     phone: "1834567890",
     subjects: ["Physics", "Chemistry"],
     classes: ["5A", "4B", "3C"],
@@ -69,7 +69,7 @@ export const teachersData = [
     name: "Anna Santiago",
     email: "anna@gmail.com",
     photo:
-      "https://images.pexels.com/photos/718518/pexels-photo-718518.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=1800",
     phone: "1834567890",
     subjects: ["Physics"],
     classes: ["5A", "4B", "3C"],

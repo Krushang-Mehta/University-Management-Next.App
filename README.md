@@ -111,9 +111,9 @@ UMS uses **Recharts** to provide interactive graphs and charts for:
 /ums-app
   |-- /app
   |     |-- /auth
-  |     |-- /dashboard
   |     |-- /api
-  |     |-- /components
+  |     |-- /dashboard   
+  |-- /components
   |-- /prisma
   |     |-- schema.prisma
   |-- /public
