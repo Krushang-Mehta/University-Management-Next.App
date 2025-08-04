@@ -2,34 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Hide scrollbar but keep scroll functionality */
-.scrollbar-hide {
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;     /* Firefox */
+.react-calendar {
+  width: 100% !important;
+  border: none !important;
+  font-family: "Inter", sans-serif !important;
 }
 
-.scrollbar-hide::-webkit-scrollbar {
-  display: none;             /* Chrome, Safari */
-}
-
-
-.react-calendar{
-    width: 100% !important;
-    border: none !important;
-    font-family: "Inter", sans-serif !important;
-}
-
-.react-calendar__navigation__label{
-    font-weight: 600;
+.react-calendar__navigation__label__labelText {
+  font-weight: 600;
 }
 
 .react-calendar__tile--active {
-    background: #53eafd !important;
-    color: black !important;
+  background-color: #c3ebfa !important;
+  color: black !important;
 }
 
-.rbc-btn-group:first-child{
-        display:none !important;
+.rbc-btn-group:first-child {
+  display: none !important;
 }
 
 .rbc-toolbar-label {
